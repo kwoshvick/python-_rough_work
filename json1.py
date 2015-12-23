@@ -13,6 +13,9 @@ input2 = '''
   }
 ]'''
 
+print(input2)
+exit()
+
 info = json.loads(input2)
 print('user count', len(info))
 
