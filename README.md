@@ -1,2 +1,2 @@
 # pythonscripts
-test sccripts
+test scripts
